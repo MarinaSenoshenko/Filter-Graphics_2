@@ -1,0 +1,12 @@
+апр. 07, 2023 7:32:16 PM view.Panel useFilter
+INFO: SOBEL 1442 milliseconds
+апр. 07, 2023 7:32:48 PM view.Panel useFilter
+INFO: NONE 0 milliseconds
+апр. 07, 2023 7:32:59 PM view.Panel useFilter
+INFO: SOBEL 1340 milliseconds
+апр. 07, 2023 7:33:01 PM view.Panel useFilter
+INFO: NONE 0 milliseconds
+апр. 07, 2023 7:33:07 PM view.Panel useFilter
+INFO: SOBEL 1512 milliseconds
+апр. 07, 2023 7:33:36 PM view.Panel useFilter
+INFO: ROBERTS 775 milliseconds

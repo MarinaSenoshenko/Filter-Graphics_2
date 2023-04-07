@@ -1,0 +1,15 @@
+Filter application which contains filters:
+1) Floyd dither
+2) Ordered dither
+3) Roberts
+4) Sobel
+5) Blur
+6) Emboss
+7) Sharp
+8) Build up
+9) Aquarelle
+10) Gamma
+11) Grey
+12) Inversion
+Also, you can rotate and change size of image
+made by Marina Senoshenko - FIT, group 20209
